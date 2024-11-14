@@ -5,3 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 k8s.gcr.io/kube-apiserver:v1.23.6
+k8s.gcr.io/kube-controller-manager:v1.23.6
+k8s.gcr.io/kube-scheduler:v1.23.6
+k8s.gcr.io/kube-proxy:v1.23.6
+
